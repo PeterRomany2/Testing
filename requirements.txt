@@ -1,6 +1,0 @@
-pandas
-streamlit
-plotly
-ollama
-openpyxl
-groq
